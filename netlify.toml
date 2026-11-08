@@ -1,0 +1,12 @@
+[build]
+publish = "."
+
+[[redirects]]
+from = "/脚本.md"
+to = "/index.html"
+status = 404
+
+[[redirects]]
+from = "/%E8%84%9A%E6%9C%AC.md"
+to = "/index.html"
+status = 404
